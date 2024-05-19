@@ -1,1 +1,6 @@
-pub mod automs;
+pub mod atoms;
+pub mod molecules;
+pub mod pages;
+
+
+

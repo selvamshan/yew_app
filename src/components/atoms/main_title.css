@@ -1,0 +1,18 @@
+h1 {
+    font-size: 70px;
+    color:orange;
+    background-color: aqua;
+}
+
+.normal {
+    color: white;
+}
+
+.ok {
+    color: green;
+}
+
+.error {
+    color: red;
+}
+
